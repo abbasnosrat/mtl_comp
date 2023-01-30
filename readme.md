@@ -1,0 +1,2 @@
+This repository is an ongoing hobby project of mine. I am comparing different multi-task learning methods to pick the best one for my main project.
+I have currently implemented the uncertainy weighting method, the revised uncertainy weighting method, the dynamic weight average method, and Th PCGrad method. The comparison is done on CIFAR10 dataset with a classification and a regression task.
